@@ -1,2 +1,4 @@
-# terraform-ec2-ebs-180326
-assign M2.7
+Create VPC
+Create EC2 with public subnet
+Create EBS and attach to EC2
+Test for EBS using SSH
